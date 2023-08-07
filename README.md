@@ -4,7 +4,7 @@
 This project is a starter project for a Spring Boot learning path.
 
 
-![Logo](https://image.pngaaa.com/546/2459546-middle.png)
+![Logo](https://miro.medium.com/v2/resize:fit:700/0*R60lnmJl4hanOBaJ.png)
 
 
 Spring Boot is a project built on top of the Java-based open-source framework, Spring Framework. It is a solution that simplifies and accelerates the development of web and enterprise applications using the Spring Framework.
